@@ -1,0 +1,31 @@
+﻿laplace https://pl.khanacademy.org/math/differential-equations/laplace-transform﻿
+riemann http://www.claymath.org/sites/default/files/zeta.pdf﻿
+bose peyam youtube.com/watch?v=hqo_-AX4IXg﻿
+Bose integral "youtube.com/watch?v=ctG4YgMs74w"﻿
+lukeminen https://www.youtube.com/user/ilectureonline/videos﻿
+ellipse noCALC  youtube.com/watch?v=htgCvQ60n6E﻿
+ellipse CALC  youtube.com/watch?v=7hSkKPQA71s﻿
+etäisyys pisteestä  en.wikipedia.org/wiki/Distance_from_a_point_to_a_line﻿
+gaus 5min "youtube.com/watch?v=ebewBjZmZTw"﻿
+integral of sin(x)/x from 0 to inf "youtube.com/watch?v=s1zhYD4x6mY"﻿
+gaus 35min "youtube.com/watch?v=cTyPuZ9-JZ0"
+gaus |e^(-x^2) "youtube.com/watch?v=l27xKSNad2Y"﻿
+fourier green "wazniak.mimuw.edu.pl/index.php?title=Analiza_matematyczna_2"﻿
+uni https://www.mimuw.edu.pl/~krych/matematyka/﻿
+pallo pinta olisi kulma  youtube.com/watch?v=J42wNwCh0Mk﻿
+pallo tilavuus  youtube.com/watch?v=hpLPNKvbHMk﻿
+pallo pinta  youtube.com/watch?v=3b22dGJFRZw﻿
+ympyrä jaettu suorakulmioihin   youtube.com/watch?v=YokKp3pwVFc﻿
+ympyrän alue kulmassa  youtube.com/watch?v=EDopFLlCGrg﻿
+ympyrän ympärysmitta olisi kulma  youtube.com/watch?v=bB33KoI0_6M﻿
+miksi π se on muuttumaton  youtube.com/watch?v=0iU60fFbqNY﻿
+logaritmien lisääminen  youtube.com/watch?v=5WDRjQEaadY﻿
+logaritmien vähentäminen   youtube.com/watch?v=m6CmtUQaE54﻿
+nopea PFT  youtube.com/watch?v=0sdoCN5LIP8&list=PLX2gX-ftPVXUHumQXkd1Jk1bwsTtaZRTH&index=16﻿
+pitagoras todiste  cut-the-knot.org/pythagoras/﻿
+heron todiste  en.wikipedia.org/wiki/Heron%27s_formula﻿
+stirling   en.wikipedia.org/wiki/Gamma_function﻿
+monimutkainen kertolasku todiste   mathlesstraveled.com/2016/10/18/complex-multiplication-proof/﻿
+monimutkainen jako todiste   proofwiki.org/wiki/Division_of_Complex_Numbers_in_Polar_Form﻿
+järjettömyys √2   math.andrej.com/2010/03/29/proof-of-negation-and-proof-by-contradiction/﻿
+ellipse alue  youtube.com/watch?v=7l2xm1EAzX4&list=PLX2gX-ftPVXWZITWo7MCFbQZwdcDQBdGX&index=19﻿

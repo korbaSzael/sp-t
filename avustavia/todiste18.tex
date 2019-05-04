@@ -1,0 +1,20 @@
+\documentclass[letterpaper,17pt]{article}
+\usepackage[hmargin=1in,vmargin=1in]{geometry}
+\usepackage{amsmath}
+\pagestyle{empty}
+\newcommand\myeq{\mathrel{\overset{\makebox[0pt]{\mbox{\normalfont\tiny\sffamily x=n+y}}}{=}}}
+\newcommand\nyeq{\mathrel{\overset{\makebox[0pt]{\mbox{\normalfont\tiny\sffamily y=$\sqrt{n}$v}}}{=}}}
+\newcommand\oyeq{\mathrel{\overset{\makebox[0pt]{\mbox{\normalfont\tiny\sffamily $n\uparrow$}}}{\approx}}}
+\begin{document}
+
+$n!=\sqrt{2 \pi n}\left( \frac{n}{e} \right)^{n}$
+$\\ \\ \Gamma(n+1)=\int_{0}^{ \infty} x^{n}e^{-x} dx=\int_{0}^{ \infty} e^{nlnx-x}dx \myeq$
+$\\ \\ \int_{-n}^{\infty} e^{nln(n+y)-n-y}dy=e^{-n} \int_{-n}^{\infty} e^{nln(n+y)-y}dy=$
+$ \\ \\ (\frac{n}{e})^{n}\int_{-n}^{\infty} e^{nln(1+\frac{y}{n})-y}dy=$
+$\\ \\ ln(1+u)=u-\frac{u^{2}}{2}+\frac{u^{3}}{3}-...$
+$\\ \\ ln(1+\frac{y}{n})=\frac{y}{n}-\frac{y^{2}}{2n^{2}}+\frac{y^{3}}{3n^{3}}-...$
+$ \\ \\ (\frac{n}{e})^{n}\int_{-n}^{\infty} e^{ -\frac{y^{2}}{2n}+\frac{y^{3}}{3n^{2}}-...}dy  \nyeq$
+$ \\ \\ (\frac{n}{e})^{n}\sqrt{n} \int_{-\sqrt{n}}^{\infty} e^{ -\frac{v^{2}}{2}+\frac{v^{3}}{3\sqrt{n}}-...}dv  \oyeq$
+$\\ \\ \left( \frac{n}{e} \right)^{n} \sqrt{2 \pi n}$
+
+\end{document}
